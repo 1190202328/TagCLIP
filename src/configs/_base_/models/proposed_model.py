@@ -1,7 +1,7 @@
 img_size = 512
 in_channels = 512
 out_indices = [11]
-pretrained = 'pretrained/ViT-B-16.pt'
+pretrained = 'official_pretrained/ViT-B-16.pt'
 
 model = dict(
     type='ProposedCLIPSegmentor',
