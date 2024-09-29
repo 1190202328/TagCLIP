@@ -1,4 +1,3 @@
 output/
 pretrained
-datasets
 __pycache__/*
